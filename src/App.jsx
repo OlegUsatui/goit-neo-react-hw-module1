@@ -1,6 +1,6 @@
 import './App.module.css';
 import Container from "./components/Container/Container.jsx";
-import Profile from './components/profile/Profile.jsx';
+import Profile from './components/Profile/Profile.jsx';
 import FriendList from './components/FriendList/FriendList.jsx';
 import TransactionHistory from "./components/TransactionHistory/TransactionHistory.jsx";
 import userData from './userData.json';
